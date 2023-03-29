@@ -1,0 +1,140 @@
+.img-navbar {
+  height: 60px;
+  width: auto;
+}
+
+.bg-navbar {
+  background-color: rgb(4, 31, 30);
+}
+
+.links-navbar {
+  color: rgba(219, 39, 99, 0.6);
+  font-weight: bold;
+}
+.links-navbar:hover {
+  color: rgb(92, 42, 52);
+}
+
+.links-g {
+  margin-left: 10px;
+  transition: all 0.5s ease-out;
+}
+
+.link-directo {
+  margin-left: 0.5rem;
+  color: rgb(219, 39, 99);
+  font-size: 20px;
+  font-weight: 600px;
+}
+.link-directo:hover {
+  color: whitesmoke;
+}
+
+.text-link-color {
+  color: rgb(219, 39, 99);
+}
+
+body {
+  font-family: "EB Garamond", serif;
+}
+
+a {
+  color: rgb(80, 158, 227);
+  transition: all 0.3s ease-out;
+}
+a:hover {
+  color: rgb(219, 39, 99);
+}
+
+.img-inicio {
+  border-radius: 25%;
+}
+
+.bg-gradient-index {
+  background: #c31432;
+  background: linear-gradient(to right, #240b36, #c31432);
+}
+
+.bg-gradient-white {
+  background: #ADA996;
+  background: linear-gradient(to right, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996);
+}
+
+.productos-img-info {
+  width: 15rem;
+  height: 22rem;
+  -o-object-fit: cover;
+     object-fit: cover;
+  border-radius: 25%;
+  padding: 8px 19px;
+}
+
+.img-productos {
+  width: 700px;
+  height: 500px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  border: 2px solid floralwhite;
+}
+
+.bg-gradient-rose {
+  background: #EF3B36;
+  background: linear-gradient(to right, #FFFFFF, #EF3B36);
+}
+
+.columna-jabones {
+  padding: 8px 18px;
+}
+
+.productos-img-jabones {
+  width: 20rem;
+  height: 22rem;
+  -o-object-fit: cover;
+     object-fit: cover;
+  border-radius: 25%;
+  border: 2px solid floralwhite;
+}
+
+.p-jabones {
+  margin-bottom: 0px;
+}
+
+.bg-gradient-shampoes {
+  background: #E0EAFC;
+  background: linear-gradient(to right, #CFDEF3, #E0EAFC);
+}
+
+.productos-img-shampoes {
+  width: 20rem;
+  height: 22rem;
+  -o-object-fit: cover;
+     object-fit: cover;
+  border-radius: 25%;
+  border: 2px solid rgb(177, 185, 250);
+}
+
+.bg-gradient-oils {
+  background: #8e9eab;
+  background: linear-gradient(to right, #eef2f3, #8e9eab);
+}
+
+.img-oil-central {
+  width: 25rem;
+  height: 25rem;
+  -o-object-fit: cover;
+     object-fit: cover;
+  border-radius: 25%;
+}
+
+.productos-img-oils {
+  width: 20rem;
+  height: 22rem;
+  -o-object-fit: cover;
+     object-fit: cover;
+  border-radius: 25%;
+  border: 2px solid rgb(190, 194, 223);
+}
+
+.text-oils-end {
+  padding-top: 50px;
+}/*# sourceMappingURL=style.css.map */
